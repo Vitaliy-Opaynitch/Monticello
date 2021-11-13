@@ -1,0 +1,34 @@
+@mixin background {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+@mixin flexColumn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+@mixin flexColumnEven {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+@mixin flexJustSpaceBtw {
+    display: flex;
+    justify-content: space-between;
+}
+@mixin flexColumnCenter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+@mixin flexJustCenter {
+    display: flex;
+    justify-content: center;
+}
+@mixin flexColumnSpaceBtwCent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}

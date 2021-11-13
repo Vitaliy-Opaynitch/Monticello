@@ -1,0 +1,8 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" width="12" height="12">
+	<title>Ellipse 1</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #ffffff } 
+	</style>
+	<path id="Ellipse 1" class="shp0" d="M5.94 2C8.42 2 10.44 4.01 10.44 6.5C10.44 8.99 8.42 11 5.94 11C3.45 11 1.44 8.99 1.44 6.5C1.44 4.01 3.45 2 5.94 2Z" />
+</svg>
